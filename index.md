@@ -5,3 +5,9 @@ Perry Rhodan is an astronaut, who was on the first manned flight to the moon. Th
 The two crew of the ship - Thora and Crest - first try to kill Perry Rhodan and his crew. But later on they discover the humans have a cure for the terminal illness of Crest - cancer.
 
 So Perry Rhodan persuades them to fly to Earth with him.
+
+## Character Traits
+* charismatic
+* logical
+* strong leader
+* immortal (later)
