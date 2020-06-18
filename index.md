@@ -11,3 +11,5 @@ So Perry Rhodan persuades them to fly to Earth with him.
 * logical
 * strong leader
 * immortal (later)
+
+> We have to save Earth.
