@@ -13,3 +13,5 @@ So Perry Rhodan persuades them to fly to Earth with him.
 * immortal (later)
 
 > We have to save Earth.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/RhodanLogo1974.jpg" />
